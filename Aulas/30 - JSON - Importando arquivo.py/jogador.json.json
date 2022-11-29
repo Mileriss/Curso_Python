@@ -1,0 +1,13 @@
+{
+    "Nome":"Rafael", 
+    "Time":"soldado", 
+    "Vivo":"True", 
+    "Energia":"100", 
+    "Mochila":["faca","arma","corda","martelo","arame"], 
+    "Transporte":[
+        {"Aviao":"transporte","Energia":100,"Forca":80}, 
+        {"Caminhao":"transporte","Energia":100,"Forca":200}, 
+        {"Moto":"transporte","Energia":100,"Forca":60}
+    ]
+
+}
